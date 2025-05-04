@@ -19,4 +19,4 @@ Uma tela de login simples com os campos de usuário e senha, além de contar com
 - CSS
 
 ## ➕ Adições:
-Até agora nenhuma adição especial.
+- TAGS meta de descrição e autor
