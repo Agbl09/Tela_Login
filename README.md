@@ -20,3 +20,9 @@ Uma tela de login simples com os campos de usuário e senha, além de contar com
 
 ## ➕ Adições:
 - TAGS meta de descrição e autor
+
+## 📜 Licença
+   Este projeto foi desenvolvido para fins educacionais e está disponível para uso e modificação conforme necessário.
+
+   Feito por [Gabriela Rodrigues](https://github.com/Agbl09)
+
